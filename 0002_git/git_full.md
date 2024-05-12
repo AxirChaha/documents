@@ -5,8 +5,8 @@
 - [GitHub](https://github.com/)
 
 1. `git --version` - перевірка версії
-2. `git config --global user.name "AxirChaha"` - встановлюємо ім'я
-3. `git config --global user.email "chahara.gm@gmail.com"` - email
+2. `git config --global user.name "A...a"` - встановлюємо ім'я
+3. `git config --global user.email "c...@...m"` - email
 4. `git config --global color.ui auto` - додає допоміжне забарвлення виводу
 
     - > Ім'я та email бажано робити таке ж як і на GitHab!
