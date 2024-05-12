@@ -1,0 +1,2 @@
+- [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk)
+- [RomNero](https://www.youtube.com/@RomNero)

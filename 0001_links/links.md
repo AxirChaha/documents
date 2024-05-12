@@ -1,0 +1,8 @@
+- [Git](https://git-scm.com/)
+- [GUI clients](https://git-scm.com/download/gui/windows)
+- [GitHub](https://github.com/)
+- [How to install Linux on Windows with WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
+- [Basic commands for WSL](https://learn.microsoft.com/en-us/windows/wsl/basic-commands)
+- [Docker](https://www.docker.com/)
+- [Docker Hub](https://hub.docker.com/)
+- [Oh My Zsh](https://ohmyz.sh/)
